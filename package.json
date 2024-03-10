@@ -1,7 +1,7 @@
 {
   "name": "kid6sd",
-  "version": "1.0.0",
-  "description": "Derivatives calculating tool",
+  "version": "1.0.1",
+  "description": "Derivatives calculating tool new",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-    "kid6sd": "^1.0.0"
+    "kid6sd": "^1.0.1"
   },
   "repository": {
     "type": "git",
