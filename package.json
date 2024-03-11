@@ -13,9 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "hhttps://github.com/khairulkrhacx/kid6sd"
+    "url": "https://github.com/khairulkrhacx/kid6sd.git"
   },
   "homepage": "https://twitter.com/khairulkrhacx",
+  "bugs": {
+    "url": "https://github.com/khairulkrhacx/kid6sd/issues"
+  },
   "keywords": [
     "sum",
     "add",
